@@ -1,0 +1,28 @@
+.thank_you button{
+    background: orangered;
+    color: white;
+}
+.thank_you button:hover{
+    background: orangered;
+   
+}
+.thank_you button Link{
+    color: white;
+    display: none;
+}
+.li{
+    color: aliceblue;
+    text-decoration: none;
+   
+}
+.li:hover{
+    color: black;
+}
+.thank_you span i{
+    font-size: 4rem;
+    color: green;
+}
+.thank_you h1{
+    font-size: 3.6rem;
+  font-family:Brush Script MT ;
+}
